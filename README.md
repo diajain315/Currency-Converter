@@ -6,7 +6,6 @@ A simple currency converter web app that shows live exchange rates for 200+ curr
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![HTML](https://img.shields.io/badge/HTML5-orange)
 ![CSS](https://img.shields.io/badge/CSS3-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
